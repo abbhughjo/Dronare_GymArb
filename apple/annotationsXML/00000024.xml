@@ -1,0 +1,1 @@
+<annotations><filename>00000024.JPEG</filename><folder>images/apple</folder><size><width>600</width><height>600</height><depth>3</depth></size><object><name>apple</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>135.99999999999997</xmin><ymin>146.0</ymin><xmax>481.0</xmax><ymax>467.0</ymax></bndbox></object></annotations>
